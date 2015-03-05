@@ -1,0 +1,12 @@
+com\hotelOnline\domain\Order.class
+com\hotelOnline\domain\Item.class
+com\hotelOnline\repository\ItemRepository.class
+com\hotelOnline\service\EmployeeService.class
+com\hotelOnline\domain\Employee.class
+com\hotelOnline\repository\CustomerRepository.class
+com\hotelOnline\domain\Customer.class
+com\hotelOnline\repository\OrderRepository.class
+com\hotelOnline\repository\EmployeeRepository.class
+com\hotelOnline\service\OrderService.class
+com\hotelOnline\Application.class
+com\hotelOnline\service\CustomerService.class

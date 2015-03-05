@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoginScreen</string>
+    <string name="hello_world">Login Screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="Login">SignIN</string>
+    <string name="SignUp">SignUP</string>
+    <string name="attempts">Attempts Left:</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="title_activity_order_sum">OrderSumActivity</string>
+    <string name="title_activity_work_queue">WorkQueueActivity</string>
+
+</resources>
